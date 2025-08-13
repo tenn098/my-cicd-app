@@ -4,6 +4,7 @@ metadata:
   name: my-web-app
   labels:
     app: my-web-app
+    version: v1.1.0
 spec:
   replicas: 1
   selector:
